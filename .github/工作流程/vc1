@@ -1,0 +1,4 @@
+<script src="vconsole.min.js"></script>
+<script>
+    new VConsole();
+</script>
